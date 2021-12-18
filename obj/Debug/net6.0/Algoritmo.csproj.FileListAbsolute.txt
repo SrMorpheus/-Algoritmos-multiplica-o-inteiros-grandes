@@ -1,0 +1,15 @@
+C:\Users\feihb\Desktop\Paa\Algoritmo\bin\Debug\net6.0\Algoritmo.exe
+C:\Users\feihb\Desktop\Paa\Algoritmo\bin\Debug\net6.0\Algoritmo.deps.json
+C:\Users\feihb\Desktop\Paa\Algoritmo\bin\Debug\net6.0\Algoritmo.runtimeconfig.json
+C:\Users\feihb\Desktop\Paa\Algoritmo\bin\Debug\net6.0\Algoritmo.dll
+C:\Users\feihb\Desktop\Paa\Algoritmo\bin\Debug\net6.0\ref\Algoritmo.dll
+C:\Users\feihb\Desktop\Paa\Algoritmo\bin\Debug\net6.0\Algoritmo.pdb
+C:\Users\feihb\Desktop\Paa\Algoritmo\obj\Debug\net6.0\Algoritmo.csproj.AssemblyReference.cache
+C:\Users\feihb\Desktop\Paa\Algoritmo\obj\Debug\net6.0\Algoritmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feihb\Desktop\Paa\Algoritmo\obj\Debug\net6.0\Algoritmo.AssemblyInfoInputs.cache
+C:\Users\feihb\Desktop\Paa\Algoritmo\obj\Debug\net6.0\Algoritmo.AssemblyInfo.cs
+C:\Users\feihb\Desktop\Paa\Algoritmo\obj\Debug\net6.0\Algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\feihb\Desktop\Paa\Algoritmo\obj\Debug\net6.0\Algoritmo.dll
+C:\Users\feihb\Desktop\Paa\Algoritmo\obj\Debug\net6.0\ref\Algoritmo.dll
+C:\Users\feihb\Desktop\Paa\Algoritmo\obj\Debug\net6.0\Algoritmo.pdb
+C:\Users\feihb\Desktop\Paa\Algoritmo\obj\Debug\net6.0\Algoritmo.genruntimeconfig.cache
